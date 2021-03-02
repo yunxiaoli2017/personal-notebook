@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Theme vue -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+</head>
+<body>
+  <div id="app">Docsify rendering...</div>
+  <h1>我的笔记
+  </h1>
+  <script>
+    window.$docsify = {
+      name: 'personal-notebook',
+      repo: 'https://github.com/yunxiaoli2017/personal-notebook.git',
+      maxLevel: 5,
+      subMaxLevel: 5,
+      homepage: 'README.md',
+      coverpage: true,
+      loadSidebar: true,
+      auto2top: true, //redirect to top when switching to a new page
+      // cache control
+      requestHeaders: {
+        // force browser to read the latest documents for each request
+        'cache-control': 'max-age=0',
+      },
+      // full text search
+      search: {
+        paths: 'auto',
+        placeholder: 'search',
+        noData: 'No result found.',
+        depth: 6,
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Full text search -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- Java code highlight-->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
+  <!--Python code highlight-->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <!--Cpp code highlight-->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
+</body>
+</html>
