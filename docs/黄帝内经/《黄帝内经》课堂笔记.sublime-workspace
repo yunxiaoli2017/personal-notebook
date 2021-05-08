@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"plotClade",
+				"plotCladeFreqAsBackground"
+			],
+			[
+				"popu",
+				"population_size"
+			],
+			[
+				"zer",
+				"zeros_like"
+			],
+			[
+				"arg",
+				"arg_list"
+			],
+			[
+				"mean",
+				"meanReadDepth"
+			],
+			[
+				"masked",
+				"masked_sites"
+			],
+			[
+				"plot",
+				"plot_line"
+			],
+			[
+				"sVec",
+				"sVec_filtered"
+			],
+			[
+				"nVec",
+				"nVec_filtered"
+			],
+			[
+				"ign",
+				"th_ignore_interval"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yunxiao/Downloads/yunxiao/2HA15u=100d=2.2/param.prm",
+		"/Users/yunxiao/Projects/hmm/LenskiEstimate.py",
+		"/Users/yunxiao/Projects/hmm/HMMSampling.py",
+		"/Users/yunxiao/Projects/coevolution/Lenski-like-evolution.py",
+		"/Users/yunxiao/Projects/hmm/HmmInitialization.py",
+		"/Users/yunxiao/Projects/hmm/HmmAnalysis.py",
+		"/Users/yunxiao/Downloads/yunxiao/2HA15u=100d=1.4/param.prm",
+		"/Users/yunxiao/Downloads/yunxiao/2HA15u=100d=1.0/param.prm",
+		"/Users/yunxiao/Downloads/yunxiao/sbatch/2HA15u=100d=1.0.sh",
+		"/Users/yunxiao/Projects/contact_prediction/sbatch/contact_sca_submission_2.sh",
+		"/Users/yunxiao/Projects/contact_prediction/sbatch/contact_sca_submission.sh",
+		"/Users/yunxiao/Projects/contact_prediction/sbatch/contact_sca_1a3aA.sh",
+		"/Users/yunxiao/Downloads/Java-Programming-Build-a-Recommendation-System-master/StepFive-Final/Rating.java",
+		"/Users/yunxiao/Downloads/Java-Programming-Build-a-Recommendation-System-master/StepFive-Final/FourthRatingsOptimizedByWeiXu.java",
+		"/Users/yunxiao/Downloads/movierecommender/src/main/resources/db/migration/V1__PersonTable.sql",
+		"/Users/yunxiao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yunxiao/Downloads/movierecommender/src/main/resources/application.yml",
+		"/Users/yunxiao/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/yunxiao/CPP&Class/Web Development/quiz5_selectors_css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "《黄帝内经》课堂笔记.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

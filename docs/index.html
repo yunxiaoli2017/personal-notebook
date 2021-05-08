@@ -11,8 +11,17 @@
 </head>
 <body>
   <div id="app">Docsify rendering...</div>
-  <h1>我的笔记
-  </h1>
+  <h1>我的笔记</h1>
+
+  <!-- Markdown-it V10.0 -->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/10.0.0/markdown-it.min.js" integrity="sha256-YASERpEeN8gRNr/Fy4Km34WGFqIq1h6HkJMAQnVHlhk=" crossorigin="anonymous"></script> -->
+  <!-- Markdown-It-Attrs for Markdown-it -->
+  <!-- <script src="https://wzrd.in/standalone/markdown-it-attrs@latest" charset="utf-8"></script> -->
+  <!-- Markdown-It-Footnote for Markdown-it -->
+  <!-- <script src="https://wzrd.in/standalone/markdown-it-footnote@latest" charset="utf-8"></script> -->
+  <!-- Markdown-It-Task-List for Markdown-it -->
+  <!-- <script src="https://wzrd.in/standalone/markdown-it-task-list@latest" charset="utf-8"></script> -->
+
   <script>
     window.$docsify = {
       name: 'personal-notebook',
@@ -48,6 +57,21 @@
         color: 'rgb(90,90,90)',
         language: 'chinese',
       },
+      // plugins: [
+      //   function(hook,vm) {
+      //     hook.beforeEach(function(html) {
+      //         var md = window.markdownit();
+      //         md.use(markdownItAttrs, {
+      //             // optional, these are default options
+      //             leftDelimiter: '{',
+      //             rightDelimiter: '}',
+      //             allowedAttributes: []  // empty array = all attributes are allowed
+      //         }).use(markdownItFootnote)
+      //         .use(markdownItTaskList.default);
+      //         return md.render(html);
+      //     });
+      //   },
+      // ],
     }
   </script>
   <!-- Docsify v4 -->
