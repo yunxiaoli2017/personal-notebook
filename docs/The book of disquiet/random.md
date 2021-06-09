@@ -47,3 +47,95 @@ Deeming that I earn too little, a friend of mine who’s a partner in a successf
 Some are exploited by God himself, and they are prophets and saints in this vacuous world.
 
 And in the same way that others return to their homes, I retreat to my non-home: the large o􏰞ce on the Rua dos Douradores. I arrive at my desk as at a bulwark against life. I have a tender spot – tender to the point of tears – for my ledgers in which I keep other people’s accounts, for the old inkstand I use, for the hunched back of Sérgio, who draws up invoices a little beyond where I sit. I love all this, perhaps because I have nothing else to love, and perhaps also because nothing is worth a human soul’s love, and so it’s all the same – should we feel the urge to give it – whether the recipient be the diminutive form of my inkstand or the vast indi􏰟erence of the stars.
+
+#### Vasques my boss is Life (9)
+
+Ah, I understand! Vasques my boss is Life – monotonous and necessary, imperious and inscrutable Life. This banal man represents the banality of Life. For me he is everything, externally speaking, because for me Life is whatever is external.
+
+And if the office on the Rua dos Douradores represents life for me, the fourth-floor room where I live, on this same Rua dos Douradores, represents Art for me. Yes, Art, residing on the very same street as Life, but in a different place. Art, which gives me relief from life without relieving me of living, being as monotonous as life itself, only in a different place. Yes, for me the Rua dos Douradores contains the meaning of everything and the answer to all riddles, except for the riddle of why riddles exist, which can never be answered.
+
+#### Everything interests me but nothing holds me (10)
+
+Futile and sensitive, I’m capable of violent and consuming impulses – both good and bad, noble and vile – but never of a sentiment that endures, never of an emotion that continues, entering into the substance of my soul. Everything in me tends to go on to become something else. My soul is impatient with itself, as with a bothersome child; its restlessness keeps growing and is forever the same. Everything interests me, but nothing holds me. I attend to everything, dreaming all the while. I note the slightest facial movements of the person I’m talking with, I record the subtlest inflections of his utterances; but I hear without listening, I’m thinking of something else, and what I least catch in the conversation is the sense of what was said,by me or by him. And so I often repeat to someone what I’ve already repeated, or ask him again what he’s already answered. But I’m able to describe, in four photographic (准确得像摄像一样的) words, the facial muscles he used to say what I don’t recall, or the way he listened with his eyes to the words I don’t remember telling him. I’m two, and both keep their distance – Siamese twins (连体双胞胎) that aren’t attached.
+
+#### Two abysses (11)
+
+LITANY
+
+We never know self-realization.
+
+  We are two abysses – a well staring at the sky.
+  
+#### Crochet (12)
+
+I envy – but I’m not sure that I envy – those for whom a biography could be written, or who could write their own. In these random impressions, and with no desire to be other than random, I indifferently narrate my factless autobiography, my lifeless history. These are my Confessions, and if in them I say nothing, it’s because I have nothing to say.
+
+What is there to confess that’s worthwhile or useful? What has happened to us has happened to everyone or only to us; if to everyone, then it’s no novelty, and if only to us, then it won’t be understood. If I write what I feel, it’s to reduce the fever of feeling. What I confess is unimportant, because everything is unimportant. I make landscapes out of what I feel. I make holidays of my sensations. I can easily understand women who embroider out of sorrow or who crochet because life exists. My elderly aunt would play solitaire throughout the endless evening. These confessions of what I feel are my solitaire. I don’t interpret them like those who read cards to tell the future. I don’t probe them, because in solitaire the cards don’t have any special significance. I unwind myself like a multicoloured skein, or I make string figures of myself, like those woven on spread fingers and passed from child to child. I take care only that my thumb not miss its loop. Then I turn over my hand and the figure changes. And I start over.
+
+To live is to crochet according to a pattern we were given. But while doing it the mind is at liberty, and all enchanted princes can stroll in their parks between one and another plunge of the hooked ivory needle. Needlework of things... Intervals... Nothing...
+
+Besides, what can I expect from myself? My sensations in all their horrible acuity, and a profound awareness of feeling... A sharp mind that only destroys me, and an unusual capacity for dreaming to keep me entertained... A dead will and a reflection that cradles it, like a living child... Yes, crochet...
+
+#### Wrench myself out of me (15)
+
+Inch by inch I conquered the inner terrain I was born with. Bit by bit I reclaimed the swamp in which I’d languished. I gave birth to my infinite being, but I had to wrench myself out of me with forceps.
+
+#### I try to explain to myself how I got here (15)
+
+Perhaps it’s finally time for me to make this one effort: to take a good look at my life. I see myself in the midst of a vast desert. I tell what I literarily was yesterday, and I try to explain to myself how I got here.
+
+#### Whether or not they exist (21)
+
+Whether or not they exist, we’re slaves to the gods.
+
+#### Something that would make me not think (28)
+
+A breath of music or of a dream, of something that would make me almost feel, something that would make me not think.
+
+#### It was just taking me a long time to feel alive (29)
+
+After the last drops of rain began to fall more slowly from the rooftops and the sky’s blue began to spread over the street’s paving-stones, then the vehicles sang a different song, louder and happier, and windows could be heard opening up to the no longer forgetful sun. From the narrow street at the end of the next block came the loud invitation of the first seller of lottery tickets, and nails being nailed into crates in the shop opposite reverberated in the limpid space.
+
+It was an ambiguous holiday, official but not strictly observed. Work and repose coexisted, and I had nothing to do. I’d woken up early, and **I took a long time getting ready to exist**. I paced from one side of the room to the other, dreaming out loud incoherent and impossible things – deeds I’d forgotten to do, hopeless ambitions haphazardly realized, fluid and lively conversations which, were they to be, would already have been. And in this reverie without grandeur or calm, in this hopeless and endless dallying, I paced away my free morning, and my words – said out loud in a low voice – multiplied in the echoing cloister of my inglorious isolation.
+
+Seen from the outside, my human figure was ridiculous like everything human in its intimacy. Over the pyjamas of my abandoned sleep I’d put on an old overcoat, habitually employed for these morning vigils. My old slippers were falling apart, especially the left one. And with my hands in the pockets of my posthumous coat, I strolled down the avenue of my small room in broad and decisive steps, playing out in my useless reverie a dream no different from anybody else’s.
+
+Through the open coolness of my only window, thick drops of leftover rain could still be heard falling from the rooftops. It was still somewhat moist and cool from having rained. The sky, however, was triumphantly blue, and the clouds that remained from the defeated or tired rain retreated behind the Castle, surrendering to the sky its rightful paths. 
+
+**It was an occasion to be happy. But something weighed on me, some inscrutable yearning, an indefinable and perhaps even noble desire. Perhaps it was just taking me a long time to feel alive. And when I leaned out my high window, looking down at the street I couldn’t see, I suddenly felt like one of those damp rags used for house-cleaning that are taken to the window to dry but are forgotten, balled up, on the sill where they slowly leave a stain.**
+
+（这是他在混沌的时空中——理论上是假期，但实际上大家不怎么放——感到的的迟滞与迷茫，本应是享受闲适的一天，但有种被遗忘被隔绝的感觉弥漫在他身边。）
+
+#### His loss of parents at a young age (30)
+
+Sadly, or perhaps not, I recognize that I have an arid heart. An adjective matters more to me than the real weeping of a human soul. My master Vieira*.....
+
+But sometimes I’m different. Sometimes I have the warm tears of those who don’t have and never had a mother; and the eyes that burn with these dead tears burn inside my heart.
+
+I don’t remember my mother. She died when I was one year old. My distracted and callous sensibility comes from the lack of that warmth and from my useless longing after kisses I don’t remember. I’m artificial. It was always against strange breasts that I woke up, cuddled as if by proxy.
+
+Ah, it’s my longing for whom I might have been that distracts and torments me! Who would I be now if I’d received the affection that comes from the womb and is placed, through kisses, on a baby’s face?
+
+Perhaps my regret for having never been a son plays a large role in my emotional indifference. Whoever held me as a child against her face couldn’t hold me against her heart. Only she who was far away, in a tomb, could have done that – she who would have belonged to me, had Fate willed it.
+
+They told me later on that my mother was pretty, and they say that, when they told me, I made no comment. I was already fit in body and soul, but ignorant about emotions, and people’s speech was not yet news from other, hard-to-imagine pages.
+
+My father, who lived far away, killed himself when I was three, and so I never met him. I still don’t know why he lived far away. I never cared to find out. I remember his death as a grave silence during the first meals we ate after learning about it. I remember that the others would occasionally look at me. And I would look back, dumbly comprehending. Then I’d eat with more concentration, since they might, when I wasn’t looking, still be looking at me.
+
+I’m all of these things, like it or not, in the confused depths of my fatal sensibility.
+
+（佩索阿思忖着他的淡漠与敏感，以及这与他很小的时候就失去双亲的关联。）
+
+#### Two tides of nostalgia and desolation
+
+During the first days of Autumn when nightfall arrives suddenly, as if prematurely, and it seems we took longer to do our day’s work, I enjoy, while still working, the thought of not working which the darkness brings, for the darkness is night, and night means sleep, home, freedom. When the lights come on, dispelling darkness from the large office, and we continue our day’s work in the beginning of night, I feel a comfort that’s absurd, like a remembrance belonging to someone else, and I’m at peace with the numbers I write, as if I were reading while waiting to fall asleep.
+
+We’re all slaves of external circumstances. A sunny day transports us from a café on a narrow side street to wide open fields; an overcast sky in the country makes us close up, taking shelter as best we can in the house without doors of our own self; the onset of night, even in the midst of daytime activities, enlarges – like a slowly opening fan – our awareness that we ought to rest.
+
+But the work doesn’t slow down; it gets livelier. We no longer work; we amuse ourselves with the labour to which we’re condemned. And all of a sudden, across the huge columned sheet of my numerary destiny, the old house of my elderly aunts, shut off from the world, shelters the drowsy ten o’clock tea, and the kerosene (煤油) lamp of my lost childhood, glowing only on the linen-covered table, blinds me to the sight of Moreira, illuminated by a black electricity infinities away from me. The maid, who is even older than my aunts, brings in the tea, along with the vestiges of her interrupted nap and the affectionately patient grumpiness of old-time servants, and across all my dead past I enter items and totals without a single mistake. I retreat into myself, get lost in myself, forget myself in far-away nights uncontaminated by duty and the world, undefiled by mystery and the future.
+
+And so gentle is the sensation that estranges me from debits and credits that if by chance I’m asked a question, I answer in a soft voice, as if my being were hollow, as if it were nothing more than a typewriter I carry around with me – portable, opened and ready. It doesn’t faze me when my dreams are interrupted; they’re so gentle that I keep dreaming them as I speak, write, answer, or even discuss. And through it all the long-lost tea finishes, the office is going to close... From the ledger which I slowly shut I raise my eyes, sore from the tears they didn’t shed, and with confused feelings I accept, because I must, that with the closing of my office my dream also closes; that as my hand shuts the ledger it also pulls a veil over my irretrievable past; that I’m going to life’s bed wide awake, unaccompanied and without peace, in the **ebb and flow** (起伏涨落) of my confused consciousness, **like two tides in the black night where the destinies of nostalgia and desolation meet.**
+
+（这节让我想起了在最后一节晚自习做题的感觉。最后也让我想了上学时对放暑假的强烈渴望，以及暑假里偶尔的空寂无聊。在一天的工作结束后晚上的休息中，佩索阿一方面感到沉静，一方面又感到空寂，不安。工作这种 duty 让他免于这样的思绪上的起伏涨落，在貌似强制、劳苦的工作中，也有着一种 peace，一种“我必须也只需做工作，别的什么也不用也无暇想”的安宁。）
+
+#### 
